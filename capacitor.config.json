@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "nes-emulator",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

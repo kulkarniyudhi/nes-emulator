@@ -1,0 +1,7 @@
+{
+  "name": "nes-emulator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
